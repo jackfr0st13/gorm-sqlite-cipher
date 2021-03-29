@@ -19,7 +19,7 @@ SQLite itself is part of SQLCipher.
 
 This package can be installed with the go get command:
 
-    go get github.com/mutecomm/go-sqlcipher
+    go get github.com/jackfr0st13/gorm-sqlite-cipher
 
 ## USAGE
 
