@@ -1,7 +1,5 @@
 # gorm-sqlite-cipher
 
-======================
-
 [![GoDoc Reference](https://godoc.org/github.com/CovenantSQL/go-sqlite3-encrypt?status.svg)](https://pkg.go.dev/github.com/jackfr0st13/gorm-sqlite-cipher)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CovenantSQL/go-sqlite3-encrypt)](https://goreportcard.com/report/github.com/jackfr0st13/gorm-sqlite-cipher)
 
